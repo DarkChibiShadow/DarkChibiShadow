@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DarkChibiShadow
+- 👀 I'm a queer comic artist and game dev, and a baby coder. I know nothing, so thanks for your patience with me! I'm doing my best!
+- 🌱 I’m currently learning Ren'py.
